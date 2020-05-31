@@ -7,7 +7,7 @@
 ## The data
 The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
 
-For more info on the data, please check out: <a src="https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection"> UCI Machine Learning Repository</a>
+For more info on the data, please check out: <a href="https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection"> UCI Machine Learning Repository</a>
 
 
 
@@ -27,4 +27,4 @@ V. Evaluating Model Performance<br>
 
 
 ## References:
-1) <a src="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"> Python for Data Science and Machine Learning Bootcamp </a> by  Jose Portilla <br> 
+1) <a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"> Python for Data Science and Machine Learning Bootcamp </a> by  Jose Portilla <br> 
